@@ -1,1 +1,1 @@
-# Paystub-Project
+# Paystub Project
