@@ -4,9 +4,9 @@ This application is a basic application intended to be used by a store owner to 
 
 Using the application: 
 1. I recommend using the Eclipse IDE to run this code.
-2. Import the folder into Eclipse rather than runing the file from the folder.
+2. Import the folder into Eclipse rather than opening the file from the folder.
 4. Once imported, you will also need to create the database using the provided SQL script 'FinalProjectSQL.sql'.
-5. Also, you will need to import the four provided .jar files to Eclipse. These are imported by going to Project>Properties>Java Build Path>Add External JARs. 
+5. Also, you will need to import the four provided .jar files to Eclipse. These are imported by going to Project>Properties>Java Build Path>Libraries>Add External JARs. 
 
 Other Important Notes:
 1. There is an index.html file, this contains the JavaDoc for the project and can be helpful for a quick overview of my project.
